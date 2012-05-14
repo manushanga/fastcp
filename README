@@ -1,0 +1,9 @@
+fastcp compile
+==============
+
+gcc main.c -lpthread
+
+fastcp usage
+============
+
+./fastcp source destination
